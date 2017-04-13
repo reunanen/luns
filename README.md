@@ -66,7 +66,11 @@ for beginners.
 
 Yes, it would. However, enter ELUNS (Extended Lexicographically Unambiguous Numbering System):
 
-Feel free to start from `001`. After `999`, just go to `9990`, and so on. It is not difficult.
+Feel free to start from `001`, so you can effectively use every number between `1` and `999` without
+making the ordering ambiguous. After `999`, just go to `9990`, and so on. It is not difficult.
+
+Note that if you started from `1` and not `001`, you can still after `9` (or after `8` in the
+Conservative Mode) go to `900` (and then to `901`) or even `9000` (and then to `9001`), or so.
 
 ### Can I combine ALUNS with ELUNS?
 
