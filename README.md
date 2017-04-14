@@ -88,6 +88,11 @@ Yes, you can.
 
 Sure, go ahead!
 
+### Wouldn't I be much better off using a proper version control system instead?
+
+In the example case, yes. But sometimes you need to number things without them being different versions
+of the same document.
+
 ### Is this a joke?
 
 Does it look like one?
