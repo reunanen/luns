@@ -71,6 +71,8 @@ making the ordering ambiguous. After `999`, just go to `9990`, and so on. It is 
 
 Note that if you started from `1` and not `001`, you can still after `9` (or after `8` in the
 Conservative Mode) go to `900` (and then to `901`) or even `9000` (and then to `9001`), or so.
+Or, if you realize already at `5` that eventually there will be lots of versions, why not next
+go straight to `5000` (or `6000` for Conservative Mode), and then to `5001` and so on?
 
 ### Can I combine ALUNS with ELUNS?
 
